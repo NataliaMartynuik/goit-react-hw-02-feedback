@@ -5,5 +5,6 @@ export const TextStatistics = styled.p`
     font-weight: 600;
     font-size: 30px;
     margin-bottom: 10px;
+    margin-top: 10px;
 
 `

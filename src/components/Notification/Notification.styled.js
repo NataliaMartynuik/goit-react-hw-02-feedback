@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Wraper = styled.div`
    text-align: center;
-   margin-bottom: 30px;
+   margin-bottom: 20px;
 `
 
 export const TextMessage = styled.p`
